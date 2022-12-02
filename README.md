@@ -1,5 +1,5 @@
 # Django-Reactive
-<img src="./staticfiles/t_git.png">
+<img src="./staticfile/t_git.png">
 
 # Installation
 * 1 - clone repo https://github.com/UmirovJobir/Django-Reactive-Project.git
